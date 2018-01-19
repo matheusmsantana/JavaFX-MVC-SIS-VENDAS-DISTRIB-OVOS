@@ -1,0 +1,10 @@
+.fundo{
+    -fx-background-image: url("ovospaiefilho.jpeg"); 
+    -fx-pref-height: 371px;
+    -fx-pref-width: 600px;
+}
+.dialogvendas{
+    /*-fx-background-position: */
+    -fx-background-position: center;
+    -fx-alignment: center;
+}
